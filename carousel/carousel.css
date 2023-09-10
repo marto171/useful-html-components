@@ -33,6 +33,7 @@ body {
   border-radius: 8px;
   padding: 32px;
   padding-left: 80px;
+  position: relative;
 
   display: flex;
   align-items: center;
@@ -62,4 +63,24 @@ body {
 .testimonial-job {
   font-size: 12px;
   color: #c3fae8;
+}
+
+/* CONTROLS */
+.btn {
+  background-color: #fff;
+  border: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  position: absolute;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-icon {
+  width: 24px;
+  height: 24px;
+  stroke: #087f5b;
 }
