@@ -1,6 +1,6 @@
 # HTML Components
 
-Welcome to the HTML Components repository! This repository contains reusable HTML components for building interactive and user-friendly web interfaces. Here, we showcase three key components: a table, a carousel, and an accordion.
+Welcome to the HTML Components repository! This repository contains reusable HTML components for building interactive and user-friendly web interfaces. Here, we showcase four key components: a table, a carousel, an accordion and a pagination.
 
 ## Components
 
